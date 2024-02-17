@@ -1,0 +1,10 @@
+{
+  "customers": [],
+  "plans": [
+      {
+          "name": "Platinum365",
+          "price": 499,
+          "duration": 365
+      }
+  ]
+}
